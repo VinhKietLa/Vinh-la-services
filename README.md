@@ -1,4 +1,4 @@
-# Horizon Services 
+# Horiseon Services 
 
 We offer the best services relating to SEO and marketing.
 
