@@ -14,7 +14,7 @@ Created to provide the public with best in class in SEO and marketing solutions 
 
 ![alt-text][./images/screenshot.png]
 
-Direct link -> ![Horiseon Services](https://vinhkietla.github.io/horiseon-services/)
+Direct link -> ![Horiseon Services](https://vinhkietla.github.io/Vinh-la-services/)
 
 ## Credits
 
