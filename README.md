@@ -10,6 +10,12 @@ N/A
 
 Created to provide the public with best in class in SEO and marketing solutions to help scale up any business!  
 
+## Preview of website
+
+![alt-text][./images/screenshot.png]
+
+Direct link -> ![Horiseon Services](https://vinhkietla.github.io/horiseon-services/)
+
 ## Credits
 
 EDX
